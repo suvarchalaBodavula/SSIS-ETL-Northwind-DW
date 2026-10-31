@@ -16,7 +16,7 @@ SSIS, SQL Server, ETL architecture, data integration
 - Loaded the dimension tables first and the fact table last, because the fact table depends on the dimensions
 
 ## Control flow
-![Control flow](control_flow.png)
+![Control flow](Control_flow.png)
 
 ## Data flow
 ![Dataflow](Dataflow.png)
